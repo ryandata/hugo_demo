@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typography on Jughead</title>
+    <link>/tags/typography/</link>
+    <description>Recent content in Typography on Jughead</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 18:24:59 -0400</lastBuildDate>
+    <atom:link href="/tags/typography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Typography</title>
+      <link>/blog/typography/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      <guid>/blog/typography/</guid>
+      <description>Artisnal typography, GMO free sans-serif lettering with cruelty free grass fed kerning.</description>
+    </item>
+  </channel>
+</rss>

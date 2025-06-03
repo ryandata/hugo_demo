@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Jughead</title>
+    <link>/tags/blog/</link>
+    <description>Recent content in Blog on Jughead</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 18:24:59 -0400</lastBuildDate>
+    <atom:link href="/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Links</title>
+      <link>/links/hugo/</link>
+      <pubDate>Wed, 05 Feb 2025 03:47:55 +0530</pubDate>
+      <guid>/links/hugo/</guid>
+      <description>Links to Hugo resources</description>
+    </item>
+  </channel>
+</rss>

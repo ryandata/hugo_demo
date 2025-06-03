@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Jughead</title>
+    <link>/categories/featured/</link>
+    <description>Recent content in Featured on Jughead</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 18:24:59 -0400</lastBuildDate>
+    <atom:link href="/categories/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Links</title>
+      <link>/links/hugo/</link>
+      <pubDate>Wed, 05 Feb 2025 03:47:55 +0530</pubDate>
+      <guid>/links/hugo/</guid>
+      <description>Links to Hugo resources</description>
+    </item>
+    <item>
+      <title>Announcing Jughead: &#34;The best thing since sliced bread!&#34;</title>
+      <link>/blog/announce/</link>
+      <pubDate>Wed, 01 Jan 2025 02:01:58 +0530</pubDate>
+      <guid>/blog/announce/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Jughead&amp;rdquo; is a new, free, and awesome website theme that&amp;rsquo;s easy to use and&#xA;customize. Go get it!&amp;quot;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Typography</title>
+      <link>/blog/typography/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      <guid>/blog/typography/</guid>
+      <description>Artisnal typography, GMO free sans-serif lettering with cruelty free grass fed kerning.</description>
+    </item>
+  </channel>
+</rss>

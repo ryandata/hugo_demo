@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jughead</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Jughead</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 18:24:59 -0400</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Featured</title>
+      <link>/categories/featured/</link>
+      <pubDate>Wed, 05 Feb 2025 03:47:55 +0530</pubDate>
+      <guid>/categories/featured/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Announcements</title>
+      <link>/categories/announcements/</link>
+      <pubDate>Wed, 01 Jan 2025 02:01:58 +0530</pubDate>
+      <guid>/categories/announcements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog-a-Day</title>
+      <link>/categories/blog-a-day/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:38 +0530</pubDate>
+      <guid>/categories/blog-a-day/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Misc</title>
+      <link>/categories/misc/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      <guid>/categories/misc/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

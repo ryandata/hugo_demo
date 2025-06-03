@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on Jughead</title>
+    <link>/tags/travel/</link>
+    <description>Recent content in Travel on Jughead</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>John Doe</copyright>
+    <lastBuildDate>Tue, 03 Jun 2025 18:24:59 -0400</lastBuildDate>
+    <atom:link href="/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Traveling Ultralight</title>
+      <link>/blog/post-4/</link>
+      <pubDate>Wed, 18 Mar 2020 12:13:35 +0530</pubDate>
+      <guid>/blog/post-4/</guid>
+      <description>&lt;p&gt;I’m on a trip at the moment, and a friend who generously let me sleep on his couch looked at my small travel backpack and commented on how little I travel with: “That’s impressive,” he said.&lt;/p&gt;&#xA;&lt;p&gt;I was a little surprised, because though I’ve gotten that comment before, it’s become normal for me to travel with just a small bag (10 lbs. or less, usually), and I have friends who travel with even less. But then I remembered that I’m far from normal in this way.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
